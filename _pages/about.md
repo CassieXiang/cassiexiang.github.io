@@ -10,12 +10,14 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! I’m Cassie, a PhD candidate in Economics, School of Business, The Hong Kong University of Technology and Science. 
+Hi! I am Cassie, a PhD candidate at Department of Economics, The Hong Kong University of Technology and Science from year 2019. 
 
 ## Education
 I received my M.A. in Economics from The University of Hong Kong, HK, and my B.A. in Economcis from Shandong University, China. 
 
 ## Research Interest
-
+Economic Development; Labour Economics; Chinese Economy
 
 ## Contact
+Email: cxiang@connect.ust.hk
+Address: Room 5026, LSK Building, HKUST, Clear Water Bay, Kowloon Hong Kong
