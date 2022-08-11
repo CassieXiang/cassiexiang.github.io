@@ -8,7 +8,6 @@ redirect_from:
   - "/wordpress/index.html"
 ---
 
-{% include base_path %}
 
 Hi! I am Cassie, a PhD candidate at Department of Economics, The Hong Kong University of Technology and Science. 
 
