@@ -4,10 +4,11 @@ title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - "/about/"
-  - "/about.html"
+ - "/wordpress/"
+ - "/wordpress/index.html"
 ---
 
+{% include base_path %}
 
 Hi! I am Cassie, a PhD candidate at Department of Economics, The Hong Kong University of Technology and Science. 
 
