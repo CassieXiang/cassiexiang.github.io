@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chen (Cassie) Xiang"
+title                    : "Chen Xiang"
 title_separator          : "-"
 name                     : &name "Chen (Cassie) Xiang"
 description              : &description "PhD Candidate in Economics"
 url                      : https://cassixiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cassixiang.github.io"
+repository               : "cassiexiang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 seo_description          : "Site for Cassie Xiang, PhD candidate in Economics at HKUST"
@@ -80,9 +80,8 @@ social:
 # Site Author
 author:
   name             : "Chen (Cassie) Xiang"
-  avatar           : "oban3.jpg"
-#  bio              : "PhD Candidate <br> <br> Assistant Professor at UC San Diego: <ul><li><a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a></li> <li><a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a></li></ul>"
-#  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego, in <ul> <li><a style="color: black;" href="http://communication.ucsd.edu">Department of Communication</a></li> <li><a style="color: black;" href="http://hdsi.ucsd.edu">Halıcıoğlu Data Science Institute</a></li> <li><a style="color: black;" href="http://ipe.ucsd.edu">Institute for Practical Ethics</a></li> </ul>"
+  avatar           : "portrait.jpeg"
+#  bio              : "PhD Candidate, <a style='color: black;' href='https://econ.hkust.edu.hk/'>Department of Econimics</a>, <a style='color: black;' href='https://hkust.edu.hk/'>The Hong Kong University of Technology and Science</a>"
   bio              : "PhD Candidate, <a style='color: black;' href='https://econ.hkust.edu.hk/'>Department of Econimics</a>, <a style='color: black;' href='https://hkust.edu.hk/'>The Hong Kong University of Technology and Science</a>"
   location         : "Hong Kong"
   employer         : 
