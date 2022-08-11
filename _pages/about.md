@@ -16,7 +16,7 @@ Hi! I am Cassie, a PhD candidate at Department of Economics, The Hong Kong Unive
 I received my M.A. in Economics from The University of Hong Kong, HK, and my B.A. in Economcis from Shandong University, China. 
 
 ## Research Interest
-Economic Development; Labour Economics; Chinese Economy
+Economic Development; Labour Economics; Macroeconomics; Chinese Economy
 
 ## Contact
 Email: cxiang@connect.ust.hk <br/>
