@@ -315,6 +315,6 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-merlot
-# theme: jekyll-theme-mediator
+#theme: jekyll-theme-merlot
+theme: jekyll-theme-mediator
 
