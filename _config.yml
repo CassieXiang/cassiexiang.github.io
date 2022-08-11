@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Chen Xiang"
 title_separator          : "-"
-name                     : &name "Chen (Cassie) Xiang"
+name                     : &name "Chen (Cassie) Xiang <br/> 向 晨"
 description              : &description "PhD Candidate in Economics"
 url                      : https://cassiexiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
