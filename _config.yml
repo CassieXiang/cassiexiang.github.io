@@ -81,8 +81,8 @@ social:
 author:
   name             : "Chen (Cassie) Xiang"
   avatar           : "portrait.jpeg"
-#  bio              : "PhD Candidate, <a style='color: black;' href='https://econ.hkust.edu.hk/'>Department of Econimics</a>, <a style='color: black;' href='https://hkust.edu.hk/'>The Hong Kong University of Technology and Science</a>"
-  bio              : "PhD Candidate, <a style='color: black;' href='https://econ.hkust.edu.hk/'>Department of Econimics</a>, <a style='color: black;' href='https://hkust.edu.hk/'>The Hong Kong University of Technology and Science</a>"
+#  bio              : "PhD Candidate, <a style='color: black;' href='https://econ.hkust.edu.hk/'>Department of Econimics</a>, <a style='color: black;' href='https://hkust.edu.hk/'>The Hong Kong University of Science and Technology </a>"
+  bio              : "PhD Candidate, <a style='color: black;' href='https://econ.hkust.edu.hk/'>Department of Econimics</a>, <a style='color: black;' href='https://hkust.edu.hk/'>The Hong Kong University of Science and Technology</a>"
   location         : "Hong Kong"
   employer         : 
   googlescholar    :
