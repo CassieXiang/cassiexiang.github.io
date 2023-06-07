@@ -1,7 +1,7 @@
 # main links links
 main:
-#  - title: "Research"
-#    url: /articles/
+ -  title: "Research"
+    url: /articles/
   
  # - title: "Teaching"
  #   url: /teaching/
@@ -11,3 +11,8 @@ main:
   
 #  - title: "Contact"
 #    url: /contact/
+
+
+# - title: "Public Goods"
+
+ - title: "Resources"
