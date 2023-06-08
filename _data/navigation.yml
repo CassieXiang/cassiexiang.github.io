@@ -1,6 +1,6 @@
 # main links links
 main:
-# -  title: "Research"
+#  - title: "Research"
 #    url: /articles/
   
  # - title: "Teaching"
@@ -11,8 +11,3 @@ main:
   
 #  - title: "Contact"
 #    url: /contact/
-
-
-# - title: "Public Goods"
-
-# - title: "Resources"
