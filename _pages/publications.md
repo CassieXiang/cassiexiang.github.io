@@ -6,8 +6,8 @@ author_profile: true
 ---
 ## Working Paper
 **Gender Gap, Structural Change and Female Comparative Advantage** with *Marc Dordal i Carreras* <br>
-Draft coming soon! <br>
-[Slides_April2023](https://hkustconnect-my.sharepoint.com/personal/cxiang_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcxiang%5Fconnect%5Fust%5Fhk%2FDocuments%2FBrownbag%5FCassie%2D1%2D35%2Epdf&parentview=1) <br>
+Draft Upon Request <br>
+[Slides_April2023](https://www.dropbox.com/scl/fi/99oc9h4x05ns53c4asab7/Slides_Chen-Cassie-Xiang.pdf?rlkey=tb1k63fac888p5qj28tf5ozbc&st=9on2tzx3&dl=0) <br>
 <br>
 <br>
 **Educational Decisions in the Shadow of Cronyism: An Empirical Study of College Graduates in China** with *Xiaofan Zhu*
