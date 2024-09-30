@@ -17,6 +17,7 @@ author_profile: true
 <br>
 **The Effect of On-campus Student Accommodation on Academic and Non-academic Outcomes** 
 with *Xuanyi Jin, Sujata Visaria, and Xiaofan Zhu*
+<br>
 **Abstract:** This study examines the impact of on-campus residence halls on academic and job market outcomes, as well as subjective wellbeing among students at a first-tier university in Hong Kong. Leveraging administrative data and a random allocation system, we find that students residing in halls exhibit lower yearly Grade Point Averages, receive fewer job offers upon graduation, and report higher satisfaction with their hall experience. Across the complete sample of students analyzed, male students are particularly influenced by hall residency. We further study the underlying mechanisms and identify that underutilization of school learning facilities and fewer full-time internships of hall residents may contribute to the observed academic and labor market performance differences. Our research contributes to understanding the role of college amenities in human capital accumulation and sheds light on gender-specific effects of on-campus residence. <br>
 <br>
 <br>
