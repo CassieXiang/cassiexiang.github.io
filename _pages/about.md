@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! I am Cassie, a PhD candidate at Department of Economics, The Hong Kong University of Science and Technology. I will be visiting the Harris School of Public Policy at the University of Chicago from Autumn 2024 to Spring 2025.
+Hi! I am Cassie, a PhD candidate at Department of Economics, The Hong Kong University of Science and Technology.
 
 ## Education
 I received my M.A. in Economics from The University of Hong Kong, HK, and my B.A. in Economcis from Shandong University, China. 
