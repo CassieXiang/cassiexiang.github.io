@@ -4,7 +4,6 @@ permalink: /publications/
 title: Projects
 author_profile: true
 ---
-## Working Paper
 **The Intergenerational Impact of the Long-term Care Insurance Policy**, *Job Market Paper*
 <br>
 Draft coming soon.
