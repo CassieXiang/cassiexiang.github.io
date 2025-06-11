@@ -10,13 +10,13 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! I am Cassie, a PhD candidate at Department of Economics, The Hong Kong University of Science and Technology.
+Hi! My name is Cassie Chen Xiang (向晨). I'm a PhD candidate at Department of Economics, The Hong Kong University of Science and Technology. I will be on the 2025-2016 job market. 
 
 ## Education
 I received my M.A. in Economics from The University of Hong Kong, HK, and my B.A. in Economcis from Shandong University, China. 
 
 ## Research Interest
-I am interested in Labor Economics, with a special interest in gender, health, and human capital relevant topics.
+My area of interest is Labor Economics, with a special interest in human capital, gender, and health relevant topics.
 
 ## Contact
 Email: cxiang@connect.ust.hk <br/>
