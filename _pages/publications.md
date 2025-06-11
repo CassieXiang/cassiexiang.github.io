@@ -6,6 +6,7 @@ author_profile: true
 ---
 ## Working Paper
 **The Intergenerational Impact of the Long-term Care Insurance Policy**, *Job Market Paper*
+Draft coming soon.
 
 **Educational Decisions in the Shadow of Cronyism: An Empirical Study of College Graduates in China**, with *Xiaofan Zhu*
 <br>
