@@ -16,7 +16,7 @@ Hi! My name is Cassie Chen Xiang (向晨). I'm a PhD candidate at Department of 
 I received my M.A. in Economics from The University of Hong Kong, HK, and my B.A. in Economcis from Shandong University, China. 
 
 ## Research Interest
-My area of interest is Labor Economics, with a special interest in human capital, gender, and health relevant topics.
+My area of interest is Labor Economics, with a special interest in human capital, gender, and population ageing.
 
 ## Contact
 Email: cxiang@connect.ust.hk <br/>
