@@ -29,7 +29,7 @@ with *Xuanyi Jin, [Sujata Visaria](https://apc01.safelinks.protection.outlook.co
  [[Slides]](https://www.dropbox.com/scl/fi/98fy8hguxm12fmi8ookkg/IMF_Slides_0822.pdf?rlkey=sw2fcdw55x85txcgtfz13tt1k&dl=0) 
  [[Paper]](https://www.dropbox.com/scl/fi/orth9nk3crmry63ahzctr/wpiea2025167-print-pdf.pdf?rlkey=p75ubtxfeh58y9at0okl4xa7q&dl=0) <br> 
 
-## Selected Work-in-Progress Papers
+## In Progress
  **Gender Gap, Structural Change and Female Comparative Advantage**, with [*Marc Dordal i Carreras*](https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmarcdordal.github.io%2F&data=05%7C02%7Ccxiang%40connect.ust.hk%7Cf0b9281d060842169e0108dda71b5d66%7C6c1d415239d044ca88d9b8d6ddca0708%7C1%7C0%7C638850458173818548%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=NIHs7Z5tA6utbX9rWOScs%2BZLXc6VkSEFzMyEOKRYzuU%3D&reserved=0) <br>
 **Abstract:** This paper examines the decline in female labor force participation (LFP) in developing countries by linking structural change to female comparative advantage (CA). Our model predicts that female LFP decreases when women's CA is concentrated in contracting sectors and increases when it shifts to expanding sectors. In many developing economies, the CA often resides in the shrinking agricultural sector. We validate the framework using Chinese census data, demonstrating its ability to explain regional female LFP variations and gender gaps in LFP, and further apply it to India to illustrate its broader predictive utility. <br>
 # <!-- [Slides_April2023](https://www.dropbox.com/scl/fi/99oc9h4x05ns53c4asab7/Slides_Chen-Cassie-Xiang.pdf?rlkey=tb1k63fac888p5qj28tf5ozbc&st=9on2tzx3&dl=0) <br> -->
