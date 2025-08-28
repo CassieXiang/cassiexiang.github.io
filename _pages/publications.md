@@ -18,14 +18,14 @@ Draft coming soon.
 <br>
 <br>
 **The Effect of On-campus Student Accommodation on Academic and Non-academic Outcomes**, 
-with *Xuanyi Jin, <a href="https://www.bayes.city.ac.uk/faculties-and-research/experts/sujata-visaria" target="_blank">Sujata Visaria</a>, and Xiaofan Zhu* (Under review) 
+with *Xuanyi Jin, <u><a href="https://www.bayes.city.ac.uk/faculties-and-research/experts/sujata-visaria" target="_blank">Sujata Visaria</a></u>, and Xiaofan Zhu* (Under review) 
 <br>
 <br>
 **Abstract:** We investigate the impact of on-campus housing on undergraduate students' academic and non-academic outcomes in an East Asian university. Our empirical strategy exploits the housing allocation policy at a leading public university in Hong Kong, whereby applicants receive offers in a randomly selected order. In contrast to the previous literature, we find that living in a student hall reduces students' yearly Grade Point Average (GPA) by 0.12 points (or 0.18 standard deviations), and causes them to receive fewer job offers at the time of graduation. These negative effects are concentrated among male students. This effect is associated with reduced time spent studying: hall residents report spending more time on extracurricular activities and less time on academic study, and make fewer visits to the library during the day, although more visits at night. We offer a possible explanation for why student accommodation may have different effects in East Asia than in the Western context that have been studied previously.
 <br>
 <br>
-<a href="https://www.dropbox.com/scl/fi/79m3k1gnul2jmaa3r7xcu/Student_Housing_Presentation.pdf?rlkey=gpm6via3fpmqvmn9mfj367pex&dl=0" target="_blank">[Slides]</a> 
-<a href="https://www.dropbox.com/scl/fi/g7lp3y3rmm4v7v0fzxgas/Student_Housing_Manuscript.pdf?rlkey=ihjy1y5whuhfn1ggv1wscnime&dl=0" target="_blank">[Paper]</a> 
+<u><a href="https://www.dropbox.com/scl/fi/79m3k1gnul2jmaa3r7xcu/Student_Housing_Presentation.pdf?rlkey=gpm6via3fpmqvmn9mfj367pex&dl=0" target="_blank">[Slides]</a></u>
+<u><a href="https://www.dropbox.com/scl/fi/g7lp3y3rmm4v7v0fzxgas/Student_Housing_Manuscript.pdf?rlkey=ihjy1y5whuhfn1ggv1wscnime&dl=0" target="_blank">[Paper]</a></u>
 <br> 
 
 ## Policy Papers
