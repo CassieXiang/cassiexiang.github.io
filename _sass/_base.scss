@@ -307,3 +307,14 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+
+/* Custom Link Styles */
+a {
+  color: blue; /* Change link color */
+  text-decoration: underline; /* Underline links */
+
+  &:hover {
+    color: darkblue; /* Change color on hover */
+  }
+}
