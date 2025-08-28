@@ -29,7 +29,7 @@ with *Xuanyi Jin, <u><a href="https://www.bayes.city.ac.uk/faculties-and-researc
 <br> 
 
 ## Policy Papers
-[**Impact of Cross-Border Migration on Gender Gap in Labor Force Participation in Latin American and Caribbean**](https://www.imf.org/en/Publications/WP/Issues/2025/08/22/Impact-of-Cross-Border-Migration-on-the-Gender-Gap-in-Labor-Force-Participation-in-Latin-569411#:~:text=Summary,countries%20from%201990%20to%202020.) with *Manuk Ghazanchyan* (IMF working Paper)
+<u><a href="https://www.imf.org/en/Publications/WP/Issues/2025/08/22/Impact-of-Cross-Border-Migration-on-the-Gender-Gap-in-Labor-Force-Participation-in-Latin-569411#:~:text=Summary,countries%20from%201990%20to%202020" target="_blank">**Impact of Cross-Border Migration on Gender Gap in Labor Force Participation in Latin American and Caribbean**</a></u>, with *Manuk Ghazanchyan* (IMF working Paper)
 <br>
 <br>
 **Abstract:** Migration has been typically accompanied by persistently large gender gaps in labor force participation (LFP) rates within the Latin American and the Caribbean (LAC) countries from 1990 to 2020. However, the impact of both emigration (moving abroad) and immigration (coming in to the host country), and their joint effect on gender gap in labor force participation in LAC remains to be explored. This paper fills this gap by using both country-level data across LAC countries and individual-level data within Colombia as a supplementary case study. Our country-level analysis of LAC countries from 1991 to 2019 reveals that emigration is associated with decreased labor force participation rates, particularly among women. Supporting these findings, and based on data on Colombia from 2017 to 2019, we found that remittances, serving as a proxy for emigration, are associated with reduced labor force participation, especially among less-educated, older, and informal-sector women workers shaped by structural barriers and policy gaps. The reduced LFP rates for all genders are also shown with the influx of Venezuelan immigrants (serving as a proxy for an immigration shock) in the Colombian case.
@@ -40,7 +40,7 @@ with *Xuanyi Jin, <u><a href="https://www.bayes.city.ac.uk/faculties-and-researc
 <br> 
 
 ## In Progress
-**Gender Gap, Structural Change and Female Comparative Advantage**, with <a href="https://marcdordal.github.io/" target="_blank">Marc Dordal i Carreras</a> 
+**Gender Gap, Structural Change and Female Comparative Advantage**, with <u><a href="https://marcdordal.github.io/" target="_blank">Marc Dordal i Carreras</a></u>
 <br>
 <br>
 **Abstract:** This paper examines the decline in female labor force participation (LFP) in developing countries by linking structural change to female comparative advantage (CA). Our model predicts that female LFP decreases when women's CA is concentrated in contracting sectors and increases when it shifts to expanding sectors. In many developing economies, the CA often resides in the shrinking agricultural sector. We validate the framework using Chinese census data, demonstrating its ability to explain regional female LFP variations and gender gaps in LFP, and further apply it to India to illustrate its broader predictive utility. 
