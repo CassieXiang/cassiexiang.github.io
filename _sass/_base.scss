@@ -104,8 +104,10 @@ blockquote {
 }
 
 /* links */
-
 a {
+  color: blue; /* Change link color */
+  text-decoration: underline; /* Underline links */
+
   &:focus {
     @extend %tab-focus;
   }
@@ -113,6 +115,7 @@ a {
   &:hover,
   &:active {
     outline: 0;
+    color: darkblue; /* Change color on hover */
   }
 }
 
@@ -309,12 +312,3 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 }
 
 
-/* Custom Link Styles */
-a {
-  color: blue; /* Change link color */
-  text-decoration: underline; /* Underline links */
-
-  &:hover {
-    color: darkblue; /* Change color on hover */
-  }
-}
