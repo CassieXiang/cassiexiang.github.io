@@ -105,7 +105,7 @@ blockquote {
 
 /* links */
 a {
-  color: blue; /* Change link color */
+  color: blue !important; /* Change link color */
   text-decoration: underline; /* Underline links */
 
   &:focus {
@@ -115,7 +115,7 @@ a {
   &:hover,
   &:active {
     outline: 0;
-    color: darkblue; /* Change color on hover */
+    color: darkblue !important; /* Change color on hover */
   }
 }
 
