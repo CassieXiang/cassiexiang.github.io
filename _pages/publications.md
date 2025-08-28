@@ -4,6 +4,7 @@ permalink: /publications/
 title: Projects
 author_profile: true
 ---
+
 **The Intergenerational Impact of the Long-term Care Insurance Policy**, *Job Market Paper*
 <br>
 Draft coming soon.
@@ -12,31 +13,35 @@ Draft coming soon.
 **Educational Decisions in the Shadow of Cronyism: An Empirical Study of College Graduates in China**, with *Xiaofan Zhu*
 <br>
 <br>
-**Abstract:** This paper investigates how inefficient political institutions, marked by rampant corruption and cronyism, shape students' educational choices based on their political connections. Utilizing the recent anti-corruption campaign in China, we find that college graduates with cadre parents from more corrupt regions are more likely to pursue further studies after the campaign. The effects are more pronounced among students with a non-STEM major, lower academic performance, and more powerful political connections, and among males. The study of underlying mechanisms suggests a more equitable post-campaign employment environment, where connected students need stronger educational qualifications to remain competitive against their unconnected counterparts. <br>
+**Abstract:** This paper investigates how inefficient political institutions, marked by rampant corruption and cronyism, shape students' educational choices based on their political connections. Utilizing the recent anti-corruption campaign in China, we find that college graduates with cadre parents from more corrupt regions are more likely to pursue further studies after the campaign. The effects are more pronounced among students with a non-STEM major, lower academic performance, and more powerful political connections, and among males. The study of underlying mechanisms suggests a more equitable post-campaign employment environment, where connected students need stronger educational qualifications to remain competitive against their unconnected counterparts. 
+<br>
 <br>
 <br>
 **The Effect of On-campus Student Accommodation on Academic and Non-academic Outcomes**, 
-with *Xuanyi Jin, [Sujata Visaria](https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.bayes.city.ac.uk%2Ffaculties-and-research%2Fexperts%2Fsujata-visaria&data=05%7C02%7Ccxiang%40connect.ust.hk%7C1e2724f47e7c42a5094208dd9207f12d%7C6c1d415239d044ca88d9b8d6ddca0708%7C1%7C0%7C638827285053867272%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=6zXdN2yJVBbASE9u503tdrHPx3X%2FQPCKPtuMi8BAD2g%3D&reserved=0), and Xiaofan Zhu* (Under review) <br>
+with *Xuanyi Jin, <a href="https://www.bayes.city.ac.uk/faculties-and-research/experts/sujata-visaria" target="_blank">Sujata Visaria</a>, and Xiaofan Zhu* (Under review) 
 <br>
-**Abstract:** We investigate the impact of on-campus housing on undergraduate students' academic and non-academic outcomes in an East Asian university. Our empirical strategy exploits the housing allocation policy at a leading public university in Hong Kong, whereby applicants receive offers in a randomly selected order. In contrast to the previous literature, we find that living in a student hall reduces students' yearly Grade Point Average (GPA) by 0.12 points (or 0.18 standard deviations), and causes them to receive fewer job offers at the time of graduation. These negative effects are concentrated among male students. This effect is associated with reduced time spent studying: hall residents report spending more time on extracurricular activities and less time on academic study, and make fewer visits to the library during the day, although more visits at night. We offer a possible explanation for why student accommodation may have different effects in East Asia than in the Western context that have been studied previously.<br>
 <br>
-[[Slides]](https://www.dropbox.com/scl/fi/79m3k1gnul2jmaa3r7xcu/Student_Housing_Presentation.pdf?rlkey=gpm6via3fpmqvmn9mfj367pex&dl=0) 
-[[Paper]](https://www.dropbox.com/scl/fi/g7lp3y3rmm4v7v0fzxgas/Student_Housing_Manuscript.pdf?rlkey=ihjy1y5whuhfn1ggv1wscnime&dl=0) <br> 
+**Abstract:** We investigate the impact of on-campus housing on undergraduate students' academic and non-academic outcomes in an East Asian university. Our empirical strategy exploits the housing allocation policy at a leading public university in Hong Kong, whereby applicants receive offers in a randomly selected order. In contrast to the previous literature, we find that living in a student hall reduces students' yearly Grade Point Average (GPA) by 0.12 points (or 0.18 standard deviations), and causes them to receive fewer job offers at the time of graduation. These negative effects are concentrated among male students. This effect is associated with reduced time spent studying: hall residents report spending more time on extracurricular activities and less time on academic study, and make fewer visits to the library during the day, although more visits at night. We offer a possible explanation for why student accommodation may have different effects in East Asia than in the Western context that have been studied previously.
+<br>
+<br>
+<a href="https://www.dropbox.com/scl/fi/79m3k1gnul2jmaa3r7xcu/Student_Housing_Presentation.pdf?rlkey=gpm6via3fpmqvmn9mfj367pex&dl=0" target="_blank">[Slides]</a> 
+<a href="https://www.dropbox.com/scl/fi/g7lp3y3rmm4v7v0fzxgas/Student_Housing_Manuscript.pdf?rlkey=ihjy1y5whuhfn1ggv1wscnime&dl=0" target="_blank">[Paper]</a> 
+<br> 
 
 ## Policy Papers
-[**Impact of Cross-Border Migration on Gender Gap in Labor Force Participation in Latin American and Caribbean**](https://www.imf.org/en/Publications/WP/Issues/2025/08/22/Impact-of-Cross-Border-Migration-on-the-Gender-Gap-in-Labor-Force-Participation-in-Latin-569411#:~:text=Summary,countries%20from%201990%20to%202020.), *with Manuk Ghazanchyan* (IMF working Paper)
+[**Impact of Cross-Border Migration on Gender Gap in Labor Force Participation in Latin American and Caribbean**](https://www.imf.org/en/Publications/WP/Issues/2025/08/22/Impact-of-Cross-Border-Migration-on-the-Gender-Gap-in-Labor-Force-Participation-in-Latin-569411#:~:text=Summary,countries%20from%201990%20to%202020.) with *Manuk Ghazanchyan* (IMF working Paper)
 <br>
 <br>
-**Abstract:** Migration has been typically accompanied by persistently large gender gaps in labor force participation (LFP) rates within the Latin American and the Caribbean (LAC) countries from 1990 to 2020. However, the impact of both emigration (moving abroad) and immigration (coming in to the host country), and their joint effect on gender gap in labor force participation in LAC remains to be explored. This paper fills this gap by using both country-level data across LAC countries and individual-level data within Colombia as a supplementary case study. Our country-level analysis of LAC countries from 1991 to 2019 reveals that emigration is associated with decreased labor force participation rates, particularly among women. Supporting these findings, and based on data on Colombia from 2017 to 2019, we found that remittances, serving as a proxy for emigration, are associated with reduced labor force participation, especially among less-educated, older, and informal-sector women workers shaped by structural barriers and policy gaps. The reduced LFP rates for all genders are also shown with the influx of Venezuelan immigrants (serving as a proxy for an immigration shock) in the Colombian case.<br>
+**Abstract:** Migration has been typically accompanied by persistently large gender gaps in labor force participation (LFP) rates within the Latin American and the Caribbean (LAC) countries from 1990 to 2020. However, the impact of both emigration (moving abroad) and immigration (coming in to the host country), and their joint effect on gender gap in labor force participation in LAC remains to be explored. This paper fills this gap by using both country-level data across LAC countries and individual-level data within Colombia as a supplementary case study. Our country-level analysis of LAC countries from 1991 to 2019 reveals that emigration is associated with decreased labor force participation rates, particularly among women. Supporting these findings, and based on data on Colombia from 2017 to 2019, we found that remittances, serving as a proxy for emigration, are associated with reduced labor force participation, especially among less-educated, older, and informal-sector women workers shaped by structural barriers and policy gaps. The reduced LFP rates for all genders are also shown with the influx of Venezuelan immigrants (serving as a proxy for an immigration shock) in the Colombian case.
 <br>
- <u><a href="https://www.dropbox.com/scl/fi/98fy8hguxm12fmi8ookkg/IMF_Slides_0822.pdf?rlkey=sw2fcdw55x85txcgtfz13tt1k&dl=0">[Slides]</a></u>
- <u><a href="https://www.dropbox.com/scl/fi/orth9nk3crmry63ahzctr/wpiea2025167-print-pdf.pdf?rlkey=p75ubtxfeh58y9at0okl4xa7q&dl=0">[Paper]</a></u>
- <br> 
+<br>
+<u><a href="https://www.dropbox.com/scl/fi/98fy8hguxm12fmi8ookkg/IMF_Slides_0822.pdf?rlkey=sw2fcdw55x85txcgtfz13tt1k&dl=0" target="_blank">[Slides]</a></u>
+<u><a href="https://www.dropbox.com/scl/fi/orth9nk3crmry63ahzctr/wpiea2025167-print-pdf.pdf?rlkey=p75ubtxfeh58y9at0okl4xa7q&dl=0" target="_blank">[Paper]</a></u>
+<br> 
 
 ## In Progress
- **Gender Gap, Structural Change and Female Comparative Advantage**, with [*Marc Dordal i Carreras*](https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmarcdordal.github.io%2F&data=05%7C02%7Ccxiang%40connect.ust.hk%7Cf0b9281d060842169e0108dda71b5d66%7C6c1d415239d044ca88d9b8d6ddca0708%7C1%7C0%7C638850458173818548%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=NIHs7Z5tA6utbX9rWOScs%2BZLXc6VkSEFzMyEOKRYzuU%3D&reserved=0) 
- <br>
- <br>
-**Abstract:** This paper examines the decline in female labor force participation (LFP) in developing countries by linking structural change to female comparative advantage (CA). Our model predicts that female LFP decreases when women's CA is concentrated in contracting sectors and increases when it shifts to expanding sectors. In many developing economies, the CA often resides in the shrinking agricultural sector. We validate the framework using Chinese census data, demonstrating its ability to explain regional female LFP variations and gender gaps in LFP, and further apply it to India to illustrate its broader predictive utility. <br>
-# <!-- [Slides_April2023](https://www.dropbox.com/scl/fi/99oc9h4x05ns53c4asab7/Slides_Chen-Cassie-Xiang.pdf?rlkey=tb1k63fac888p5qj28tf5ozbc&st=9on2tzx3&dl=0) <br> -->
+**Gender Gap, Structural Change and Female Comparative Advantage**, with <a href="https://marcdordal.github.io/" target="_blank">Marc Dordal i Carreras</a> 
+<br>
+<br>
+**Abstract:** This paper examines the decline in female labor force participation (LFP) in developing countries by linking structural change to female comparative advantage (CA). Our model predicts that female LFP decreases when women's CA is concentrated in contracting sectors and increases when it shifts to expanding sectors. In many developing economies, the CA often resides in the shrinking agricultural sector. We validate the framework using Chinese census data, demonstrating its ability to explain regional female LFP variations and gender gaps in LFP, and further apply it to India to illustrate its broader predictive utility. 
 <br>
