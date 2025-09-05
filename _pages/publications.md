@@ -16,6 +16,7 @@ Draft coming soon.
 **Abstract:** This paper investigates how inefficient political institutions, marked by rampant corruption and cronyism, shape students' educational choices based on their political connections. Utilizing the recent anti-corruption campaign in China, we find that college graduates with cadre parents from more corrupt regions are more likely to pursue further studies after the campaign. The effects are more pronounced among students with a non-STEM major, lower academic performance, and more powerful political connections, and among males. The study of underlying mechanisms suggests a more equitable post-campaign employment environment, where connected students need stronger educational qualifications to remain competitive against their unconnected counterparts. 
 <br>
 <br>
+<u><a href="https://www.dropbox.com/scl/fi/o4n6y6vgqtdj5elaiiop8/occ_Manuscripts.pdf?rlkey=v9ornjnob0k41hppua3ft3sa4&dl=0" target="_blank">[Paper]</a></u>
 <br>
 **The Effect of On-campus Student Accommodation on Academic and Non-academic Outcomes**, 
 with *Xuanyi Jin, <u><a href="https://www.bayes.city.ac.uk/faculties-and-research/experts/sujata-visaria" target="_blank">Sujata Visaria</a></u>, and Xiaofan Zhu* (Under review) 
