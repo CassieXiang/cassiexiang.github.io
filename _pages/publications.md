@@ -10,7 +10,7 @@ author_profile: true
 Draft coming soon.
 <br>
 <br>
-**Educational Decisions in the Shadow of Cronyism: An Empirical Study of College Graduates in China**, with *Xiaofan Zhu*
+**Educational Decisions in the Shadow of Cronyism: An Empirical Study of College Graduates in China**, with *Xiaofan Zhu* (Submitted)
 <br>
 <br>
 **Abstract:** This paper investigates how inefficient political institutions, marked by rampant corruption and cronyism, shape students' educational choices based on their political connections. Utilizing the recent anti-corruption campaign in China, we find that college graduates with cadre parents from more corrupt regions are more likely to pursue further studies after the campaign. The effects are more pronounced among students with a non-STEM major, lower academic performance, and more powerful political connections, and among males. The study of underlying mechanisms suggests a more equitable post-campaign employment environment, where connected students need stronger educational qualifications to remain competitive against their unconnected counterparts. 
@@ -20,7 +20,7 @@ Draft coming soon.
 <br>
 
 **The Effect of On-campus Student Accommodation on Academic and Non-academic Outcomes**, 
-with *Xuanyi Jin, <u><a href="https://www.bayes.city.ac.uk/faculties-and-research/experts/sujata-visaria" target="_blank">Sujata Visaria</a></u>, and Xiaofan Zhu* (Under review) 
+with *Xuanyi Jin, <u><a href="https://www.bayes.city.ac.uk/faculties-and-research/experts/sujata-visaria" target="_blank">Sujata Visaria</a></u>, and Xiaofan Zhu* (Submitted) 
 <br>
 <br>
 **Abstract:** We investigate the impact of on-campus housing on undergraduate students' academic and non-academic outcomes in an East Asian university. Our empirical strategy exploits the housing allocation policy at a leading public university in Hong Kong, whereby applicants receive offers in a randomly selected order. In contrast to the previous literature, we find that living in a student hall reduces students' yearly Grade Point Average (GPA) by 0.12 points (or 0.18 standard deviations), and causes them to receive fewer job offers at the time of graduation. These negative effects are concentrated among male students. This effect is associated with reduced time spent studying: hall residents report spending more time on extracurricular activities and less time on academic study, and make fewer visits to the library during the day, although more visits at night. We offer a possible explanation for why student accommodation may have different effects in East Asia than in the Western context that have been studied previously.
