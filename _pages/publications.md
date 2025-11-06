@@ -5,10 +5,12 @@ title: Projects
 author_profile: true
 ---
 
-**The Intergenerational Impact of the Long-term Care Insurance Policy**, *Job Market Paper*
+**The Intergenerational Impact of the Public Long-term Care Insurance Policy**, *Job Market Paper*
 <br>
-Draft coming soon.
+**Abstract:** This paper examines the impact of the public Long-term Care Insurance (LTCI) program on child development within multigenerational households. Utilizing three-generation linked data from the China Family Panel Studies and leveraging the staggered rollout of the LTCI program in China, I find that policy coverage significantly improves grandparents' health and enhances grandchildren's cognitive skills. The effects are more pronounced for children from households with lower socioeconomic status and for those with grandparents facing higher long-term care risks and fewer family members available for elder caregiving. The observed benefits to child development can be attributed to increased parental investments, as expenditures on extracurricular activities and the frequency of parent-child interactions significantly rise. A back-of-the-envelope calculation suggests a benefit-to-cost ratio of close to 2, primarily driven by improvements in grandchildren's cognitive skills.
 <br>
+<br>
+<u><a href="https://www.dropbox.com/scl/fi/25xbm1t5cufw18mrgyei6/JMP.pdf?rlkey=zk3ou0im0w100xvfhipgwyrjr&dl=0" target="_blank">[Paper]</a></u>
 <br>
 **Educational Decisions in the Shadow of Cronyism: An Empirical Study of College Graduates in China**, with *Xiaofan Zhu* (Submitted)
 <br>
@@ -20,7 +22,7 @@ Draft coming soon.
 <br>
 
 **The Effect of On-campus Student Accommodation on Academic and Non-academic Outcomes**, 
-with *Xuanyi Jin, <u><a href="https://www.bayes.city.ac.uk/faculties-and-research/experts/sujata-visaria" target="_blank">Sujata Visaria</a></u>, and Xiaofan Zhu* (Submitted) 
+with *Xuanyi Jin, <u><a href="https://www.bayes.city.ac.uk/faculties-and-research/experts/sujata-visaria" target="_blank">Sujata Visaria</a></u>, and Xiaofan Zhu* 
 <br>
 <br>
 **Abstract:** We investigate the impact of on-campus housing on undergraduate students' academic and non-academic outcomes in an East Asian university. Our empirical strategy exploits the housing allocation policy at a leading public university in Hong Kong, whereby applicants receive offers in a randomly selected order. In contrast to the previous literature, we find that living in a student hall reduces students' yearly Grade Point Average (GPA) by 0.12 points (or 0.18 standard deviations), and causes them to receive fewer job offers at the time of graduation. These negative effects are concentrated among male students. This effect is associated with reduced time spent studying: hall residents report spending more time on extracurricular activities and less time on academic study, and make fewer visits to the library during the day, although more visits at night. We offer a possible explanation for why student accommodation may have different effects in East Asia than in the Western context that have been studied previously.
