@@ -14,7 +14,7 @@ author_profile: true
 <u><a href="https://www.dropbox.com/scl/fi/25xbm1t5cufw18mrgyei6/JMP.pdf?rlkey=zk3ou0im0w100xvfhipgwyrjr&dl=0" target="_blank">[Paper]</a></u>
 <br>
 
-**Educational Decisions in the Shadow of Cronyism: An Empirical Study of College Graduates in China**, with *Xiaofan Zhu* (Submitted)
+**Educational Decisions in the Shadow of Cronyism: An Empirical Study of College Graduates in China**, with *Xiaofan Zhu* (Revise and Resubmit at Economica)
 <br>
 <br>
 **Abstract:** This paper investigates how inefficient political institutions, marked by rampant corruption and cronyism, shape students' educational choices based on their political connections. Utilizing the recent anti-corruption campaign in China, we find that college graduates with cadre parents from more corrupt regions are more likely to pursue further studies after the campaign. The effects are more pronounced among students with a non-STEM major, lower academic performance, and more powerful political connections, and among males. The study of underlying mechanisms suggests a more equitable post-campaign employment environment, where connected students need stronger educational qualifications to remain competitive against their unconnected counterparts. 
